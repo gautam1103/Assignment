@@ -39,13 +39,11 @@ The application can be deployed to hosting platforms like Heroku or Netlify. Fol
 
 ## Demo
 
-A live demo of the application is available at [https://your-demo-url.com](https://your-demo-url.com).
+A live demo of the application is available at [https://your-demo-url.com](https://gautam-terribly-tiny-tales.netlify.app/).
 
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
