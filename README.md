@@ -39,7 +39,7 @@ The application can be deployed to hosting platforms like Heroku or Netlify. Fol
 
 ## Demo
 
-A live demo of the application is available at [https://your-demo-url.com](https://gautam-terribly-tiny-tales.netlify.app/).
+A live demo of the application is available at [click here](https://gautam-terribly-tiny-tales.netlify.app/).
 
 ## Contributing
 
